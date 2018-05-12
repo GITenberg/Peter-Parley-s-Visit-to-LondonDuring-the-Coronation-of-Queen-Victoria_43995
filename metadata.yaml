@@ -1,0 +1,38 @@
+_repo: Peter-Parley-s-Visit-to-LondonDuring-the-Coronation-of-Queen-Victoria_43995
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43995-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Goodrich, S. G. (Samuel Griswold)
+    - Goodrich, Samuel Griswold
+    - Parley, Peter
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2013-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Queens -- Juvenile fiction'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Juvenile fiction'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Coronations -- Juvenile fiction'
+title: Peter Parley's Visit to London, During the Coronation of Queen Victoria
+url: http://www.gutenberg.org/ebooks/43995
