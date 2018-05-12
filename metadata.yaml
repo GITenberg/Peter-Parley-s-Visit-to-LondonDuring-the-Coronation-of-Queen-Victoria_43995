@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4027
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43995#Peter-Parley-s-Visit-to-LondonDuring-the-Coronation-of-Queen-Victoria
 gutenberg_issued: '2013-10-22'
 gutenberg_type: Text
 identifiers:
